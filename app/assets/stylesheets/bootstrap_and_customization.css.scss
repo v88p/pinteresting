@@ -1,8 +1,13 @@
 $body-bg: #f1c40f;
-$navbar-inverse-bg: 		white;
+
+$navbar-bg: 		white;
 $navbar-inverse-link-color: #9b59b6;
-$brand-primary: #9b59b6;
+$brand-primary: black;
 $jumbotron-bg: white;
 $text-color: #1abc9c;
+
+.center {
+		text-align: center;
+}
 
 @import 'bootstrap';
